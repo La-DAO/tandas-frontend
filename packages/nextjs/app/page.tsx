@@ -22,7 +22,7 @@ const Home: NextPage = () => {
       <div className="flex flex-col gap-6 p-6">
         <div className="grid gap-6 md:grid-cols-2">
           <div className="flex flex-col items-center justify-center text-center">
-            <div className="text-4xl font-bold">Welcome Back</div>
+            <div className="text-4xl font-bold"><Bienvenido></Bienvenido> Back</div>
             <p className="text-lg mt-2">here&apos;s an overview of your tandas activity</p>
           </div>
           <div className="relative p-1 bg-gradient-to-r from-blue-500 to-green-500 rounded-full shadow-lg flex items-center justify-between">
